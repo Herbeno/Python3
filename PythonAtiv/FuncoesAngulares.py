@@ -1,3 +1,4 @@
+# Nesta atividade, com o uso do módulo math, veremos como descobrir o seno, cosseno e tangente de um ângulo que foi inserido.
 from math import radians, sin, cos, tan
 print('**'*40)
 print('Digite um ângulo e descubra qual é seu Seno, seu Cosseno e sua Tangente! ')
