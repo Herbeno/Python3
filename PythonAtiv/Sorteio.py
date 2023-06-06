@@ -12,5 +12,5 @@ d = str(input('Nome do quarto aluno: '))
 lista = [a, b, c, d]
 escolhido = choice(lista)
 print('-'*45)
-print('O aluno escolhido pelo sorteio foi {}'.format(escolhido))
+print(f'O aluno escolhido pelo sorteio foi {escolhido}')
 print('-'*45)
