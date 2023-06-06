@@ -3,7 +3,7 @@
 tot18 = 0
 totalh = 0
 totm20 = 0
-# Para esta atividade, usaremos a estrutura de repetição while true
+# Para esta atividade, usaremos a estrutura de repetição while True
 while True:
     idade = int(input('Idade: '))
     sexo = ' '
